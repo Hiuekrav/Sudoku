@@ -6,7 +6,7 @@ Simple sudoku game created as part of Component Programming course in Lodz Unive
 - [Technologies](#technologies)
 - [Screenshots](#screenshots)
 - [Setup](#setup)
-- [Authors](#authors)
+- [Acknowledgements](#acknowledgements)
 
 ## General information
 
